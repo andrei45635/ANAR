@@ -1,2 +1,4 @@
-package com.example.anar.utils.event;public interface Event {
+package com.example.anar.utils.event;
+
+public interface Event {
 }
